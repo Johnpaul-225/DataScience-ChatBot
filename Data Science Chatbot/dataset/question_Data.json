@@ -1,0 +1,35 @@
+What is AI?#Artificial Intelligence is the simulation of human intelligence.
+Define chatbot.#A chatbot is a computer program that simulates human conversation.
+What is machine learning?#Machine learning is a field of AI...
+How does AI work?#AI works by simulating human intelligence...
+What is data science?#Data science is a field that uses statistical, mathematical, and computational techniques to extract insights from data.
+What are the key components of data science?#Key components include data collection, data cleaning, data analysis, machine learning, and data visualization.
+What is machine learning?#Machine learning is a subset of AI that enables computers to learn from data without being explicitly programmed.
+What are common data science tools?#Common tools include Python, R, Jupyter Notebooks, Pandas, NumPy, Scikit-learn, and Tableau.
+What is supervised learning?#Supervised learning is a type of machine learning where the model is trained on labeled data.
+What is unsupervised learning?#Unsupervised learning finds hidden patterns in data without labeled responses.
+How is data visualization useful in data science?#Data visualization helps communicate findings clearly and effectively using graphs and charts.
+What is a dataset?#A dataset is a structured collection of data that is used for analysis or training machine learning models.
+What is overfitting in machine learning?#Overfitting occurs when a model performs well on training data but poorly on unseen data.
+How does Python help in data science?#Python provides powerful libraries and tools for data manipulation, analysis, and machine learning.
+What is data preprocessing?#Data preprocessing involves cleaning and transforming raw data into a format suitable for analysis.
+What is feature selection?#Feature selection is the process of choosing the most relevant variables for model training.
+What is a confusion matrix?#A confusion matrix is a table used to evaluate the performance of a classification algorithm.
+What is the role of statistics in data science?#Statistics helps interpret data, make decisions, and build predictive models.
+What is cross-validation?#Cross-validation is a technique to assess model performance by splitting data into training and validation sets.
+What is deep learning?#Deep learning is a subset of machine learning using neural networks with many layers to analyze complex data.
+What are neural networks?#Neural networks are algorithms inspired by the structure of the human brain used in deep learning.
+What is natural language processing?#Natural language processing (NLP) is a field of AI that helps computers understand human language.
+What is big data?#Big data refers to extremely large datasets that require advanced methods to store, process, and analyze.
+What are recommendation systems?#Recommendation systems suggest products or content based on user preferences and behavior.
+How is clustering used in data science?#Clustering is used to group similar data points together in unsupervised learning.
+What is regression analysis?#Regression analysis models the relationship between a dependent variable and one or more independent variables.
+What is a decision tree?#A decision tree is a model that makes decisions based on a series of questions about the features.
+What is dimensionality reduction?#Dimensionality reduction reduces the number of features while preserving important information in data.
+What is principal component analysis (PCA)?#PCA is a technique for reducing data dimensionality by transforming variables into new uncorrelated ones.
+What is an outlier?#An outlier is a data point significantly different from other observations and may indicate variability or error.
+How is data cleaning performed?#Data cleaning involves handling missing values, removing duplicates, and correcting inconsistencies.
+What is time series analysis?#Time series analysis involves analyzing data points collected over time to identify trends and make forecasts.
+What is the role of a data scientist?#A data scientist collects, analyzes, and interprets large datasets to help make data-driven decisions.
+How do you evaluate a machine learning model?#Models are evaluated using metrics like accuracy, precision, recall, F1-score, and ROC-AUC.
+What is the difference between AI and data science?#AI focuses on creating intelligent systems, while data science focuses on analyzing and extracting insights from data.
